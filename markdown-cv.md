@@ -27,6 +27,9 @@ english(writing,reading,fluently spoken)
 arabic(excellent level)
 certificate and awards
 certificate in L1 photographing
+certificate of attendance:Teacher Tech summit 2023
+certification of mangaing digital reputation and career profile using LinkedIn
+certificate of attendance a professional training programg
 
 
 
